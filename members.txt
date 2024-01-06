@@ -1,5 +1,10 @@
 A
+<<<<<<< HEAD
 B
 C CCC
+=======
+B BBB
+C
+>>>>>>> B1
 D
 E
